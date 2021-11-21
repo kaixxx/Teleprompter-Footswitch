@@ -6,7 +6,7 @@ Arduino controlled footswitch for the Imaginary Teleprompter App
 Author: Kai
 Version: 0.1 - 21.11.2021
 
-Connects an arduino controlled footswitch to the Imaginary Teleprompter App (https://github.com/ImaginarySense/Imaginary-Teleprompter). 
+Imaginary Teleprompter App: https://github.com/ImaginarySense/Imaginary-Teleprompter 
 
 Works only with the standalone app and the external prompter, not the in-frame one.
 Make sure the you have the "Footswitch_Arduino.ino" sketch loaded onto the Arduino and the footswitch connected between pin 4 and GND. I am using the foot pedal from my keyboard.
